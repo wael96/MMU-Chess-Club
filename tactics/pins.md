@@ -8,5 +8,5 @@ A pin is a move that inhibits an opponent piece from moving, because doing so wo
 
 ### Exercises
 
-[https://lichess.org/study/NtLAsO86](https://lichess.org/study/NtLAsO86)
+{% embed url="https://lichess.org/study/NtLAsO86" %}
 
