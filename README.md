@@ -1,4 +1,4 @@
-# Contact Us
+# About Us
 
 For any inquires, please do not hesitate to contact us.
 

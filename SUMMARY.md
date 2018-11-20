@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Contact Us](README.md)
+* [About Us](README.md)
 * [Chess Tactics](tactics/README.md)
   * [1.Pins](tactics/pins.md)
   * [2.Back Rank Combinations](tactics/back-rank-combinations.md)
