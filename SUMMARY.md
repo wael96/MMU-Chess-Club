@@ -16,4 +16,5 @@
   * [12.Perpetual Check](tactics/perpetual-check.md)
   * [13.Zugzwang](tactics/zugzwang.md)
   * [14.Stalemate](tactics/stalemate.md)
+  * [Lucas Chess Software](tactics/lucas-chess.md)
 
